@@ -1,0 +1,8 @@
+adm.terrasgerais.com
+api.sistema.terrasgerais.com
+apiteste.sistema.terrasgerais.com
+cliente.terrasgerais.com
+consultor.terrasgerais.com
+novosite.terrasgerais.com
+sistema.terrasgerais.com
+teste.sistema.terrasgerais.com
